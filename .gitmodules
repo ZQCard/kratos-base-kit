@@ -1,0 +1,27 @@
+[submodule "kbk-administrator"]
+	path = kbk-administrator
+	url = git@github.com:ZQCard/kbk-administrator.git
+[submodule "kbk-notice"]
+	path = kbk-notice
+	url = git@github.com:ZQCard/kbk-notice.git
+[submodule "kbk-log"]
+	path = kbk-log
+	url = git@github.com:ZQCard/kbk-log.git
+[submodule "kbk-file"]
+	path = kbk-file
+	url = git@github.com:ZQCard/kbk-file.git
+[submodule "kbk-bff-admin"]
+	path = kbk-bff-admin
+	url = git@github.com:ZQCard/kbk-bff-admin.git
+[submodule "kbk-authorization"]
+	path = kbk-authorization
+	url = git@github.com:ZQCard/kbk-authorization.git
+[submodule "kbk-ai"]
+	path = kbk-ai
+	url = git@github.com:ZQCard/kbk-ai.git
+[submodule "kbk-layout"]
+	path = kbk-layout
+	url = git@github.com:ZQCard/kbk-layout.git
+[submodule "kbk-frontend"]
+	path = kbk-frontend
+	url = git@github.com:ZQCard/kbk-frontend.git
