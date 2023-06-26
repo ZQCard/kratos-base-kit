@@ -1,7 +1,10 @@
 # kratos-base-kit(kbk)
-本项目基于go-kratos作为后端框架，vue-element-admin作为[管理后台模板](https://github.com/ZQCard/kbk-frontend)，开发通用基础服务，并带有kbk-layout作为后台快速[开发模板](https://github.com/ZQCard/kbk-layout),方便快速启用服务,每个文件服务均可单独运行。框架默认多租户模式(default)、默认放开http、grpc访问接口
+本项目基于go-kratos作为后端框架，vue-element-admin作为[管理后台模板](https://github.com/ZQCard/kbk-frontend)，开发通用基础服务，并带有kbk-layout作为后台快速[开发模板](https://github.com/ZQCard/kbk-layout),方便快速启用服务,每个服务均可单独运行。
 
 ## 项目目录
+
+[项目目录介绍](https://go-kratos.dev/blog/go-project-layout/)。
+
 
 ```
 ├── kbk-bff-admin // 管理后台bff层服务
@@ -10,6 +13,9 @@
 ├── kbk-file // 文件服务
 ├── kbk-log // 接口日志服务
 ├── kbk-notice // 通知服务
+├── kbk-ai // chatgpt对话服务
+├── kbk-frontend // 管理后台前端代码 vue-element-admin为模板
+├── kbk-layout // kratos项目模板，用于快速启动项目
 
 ```
 
