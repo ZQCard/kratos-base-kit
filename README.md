@@ -9,6 +9,7 @@
 
 ```
 ├── kbk-bff-admin // 管理后台bff层服务
+├── kbk-user // 用户服务
 ├── kbk-administrator // 管理员服务
 ├── kbk-authorization // 权限服务
 ├── kbk-file // 文件服务
