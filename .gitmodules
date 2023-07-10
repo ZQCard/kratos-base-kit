@@ -27,4 +27,4 @@
 	url = git@github.com:ZQCard/kbk-frontend.git
 [submodule "kbk-user"]
 	path = kbk-user
-	url = https://github.com/ZQCard/kbk-user.git
+	url = git@github.com:ZQCard/kbk-user.git
