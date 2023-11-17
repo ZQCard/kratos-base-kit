@@ -1,6 +1,6 @@
 # kratos-base-kit(kbk)
 本项目基于go-kratos作为后端框架，vue-element-admin作为[管理后台模板](https://github.com/ZQCard/kbk-frontend)，开发通用基础服务，并带有kbk-layout作为后台快速[开发模板](https://github.com/ZQCard/kbk-layout),方便快速启用服务,每个服务均可单独运行。
-[预览地址](http://kbk.manli.ltd)
+[预览地址(修改中)](http://kbk.manli.ltd)
 
 ## 项目目录
 
